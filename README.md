@@ -8,3 +8,13 @@ all about flutter development
 🗒️ https://howtodothisinflutter.com/
 
 🗒️ https://github.com/Richa0305/stylish_todo
+
+🗒️ Commands 
+
+flutter clean
+
+flutter pub get
+
+flutter packages pub run build_runner build --delete-conflicting-outputs
+
+flutter run -d chrome --web-port=8080
